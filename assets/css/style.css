@@ -67,5 +67,13 @@ body {
     margin: 0 auto;
     box-sizing: border-box;
 }
+.page{
+    position: relative;
+
+    padding-top: 60px;
+    padding-bottom: 60px;
+    position: relative;
+}
+
 
 
